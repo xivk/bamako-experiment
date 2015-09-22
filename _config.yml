@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
+    name: 'Ben Abelshausen, Jorieke Vyncke, Kirsten Van Camp'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: ''
 
 sass:
     sass_dir: _sass
