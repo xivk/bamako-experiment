@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Bamako-Travelogue
+description: 'A description to be determined.'
 
 baseurl: '/bamako-experiment' # the subpath of your site, e.g. /blog
 url: 'http://xivk.github.io' # the base hostname & protocol for your site
