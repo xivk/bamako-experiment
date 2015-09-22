@@ -36,7 +36,3 @@ defaults:
         # Social
         share_buttons: true
         disqus: true
-
-gems:
-    - jekyll-feed
-    - jekyll-sitemap
