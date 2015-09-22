@@ -2,8 +2,8 @@
 name: Travelogue
 description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
 
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://xivk.github.io/bamako-experiment' # the base hostname & protocol for your site
+baseurl: '/bamako-experiment' # the subpath of your site, e.g. /blog
+url: 'http://xivk.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
